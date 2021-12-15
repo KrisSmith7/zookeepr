@@ -128,6 +128,35 @@
         "playful"
       ],
       "id": "12"
+    },
+    {
+      "name": "Max",
+      "species": "Koala",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Max",
+      "species": "Koala",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Sly",
+      "species": "",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
     }
   ]
 }
